@@ -24,30 +24,30 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/c.svg" alt="C" width="40" height="40"/>
-    <img src="" alt="CPP" width="40" height="40"/>
-    <img src="" alt="CSHARP" width="40" height="40"/>
-    <img src="" alt="WPF" width="40" height="40"/>
-    <img src="" alt="MsSQL" width="40" height="40"/>
-    <img src="" alt="Oracle SQL" width="40" height="40"/>
-    <img src="" alt="Oracle APEX" width="40" height="40"/>
-    <img src="" alt="HTML5" width="40" height="40"/>
-    <img src="" alt="CSS" width="40" height="40"/>
-    <img src="" alt="Javascript" width="40" height="40"/>
-    <img src="" alt="ASP-NET" width="40" height="40"/>
-    <img src="" alt="Angular" width="40" height="40"/>
-    <img src="" alt="Typescript" width="40" height="40"/>
-    <img src="" alt="React" width="40" height="40"/>
-    <img src="" alt="Bootstrap" width="40" height="40"/>
-    <img src="" alt="Tailwindcss" width="40" height="40"/>
-    <img src="" alt="ExpressJS" width="40" height="40"/>
-    <img src="" alt="NodeJs" width="40" height="40"/>
-    <img src="" alt="Nextjs" width="40" height="40"/>
-    <img src="" alt="Chart Js" width="40" height="40"/>
-    <img src="" alt="Mongodb" width="40" height="40"/>
-    <img src="" alt="Java" width="40" height="40"/>
-    <img src="" alt="PHP" width="40" height="40"/>
-    <img src="" alt="Python" width="40" height="40"/>
-    <img src="" alt="Dot Net" width="40" height="40"/>
-    <img src="" alt="Postman" width="40" height="40"/>
-    <img src="" alt="Git" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/c-plus-plus.svg" alt="CPP" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/csharp.svg" alt="CSHARP" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/wpf.png" alt="WPF" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/MsSQL.png" alt="MsSQL" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/oracleSQL.png" alt="Oracle SQL" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/oracle-apex.avif" alt="Oracle APEX" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/html5.webp" alt="HTML5" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/css.png" alt="CSS" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/javascript.svg" alt="Javascript" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/asp-net.png" alt="ASP-NET" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/angular.png" alt="Angular" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/typescript.svg" alt="Typescript" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/react.svg" alt="React" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/tailwindcss.svg" alt="Tailwindcss" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/express.webp" alt="ExpressJS" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/nodejs.png" alt="NodeJs" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/nextjs.svg" alt="Nextjs" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/chartjs.svg" alt="Chart Js" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/mongodb.svg" alt="Mongodb" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/java.svg" alt="Java" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/php.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/python.svg" alt="Python" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/dot-net.png" alt="Dot Net" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/postman.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/git.svg" alt="Git" width="40" height="40"/>
 </p>
