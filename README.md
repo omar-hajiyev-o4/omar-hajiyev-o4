@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="" alt="C" width="40" height="40"/>
+    <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/c.svg" alt="C" width="40" height="40"/>
     <img src="" alt="CPP" width="40" height="40"/>
     <img src="" alt="CSHARP" width="40" height="40"/>
     <img src="" alt="WPF" width="40" height="40"/>
