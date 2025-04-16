@@ -4,7 +4,6 @@
 <h3 align="center">Software Engineer from Azerbaijan</h3>
 
 - 📫 How to reach me **omarhajiyevo4@gmail.com**
-- 📄 Know about my experiences **https://[useername].netlify.app/resume.pdf**
 
 <div> 
     <a href="https://www.linkedin.com/in/omar-hajiyev-o4/" target="_blank"><img
