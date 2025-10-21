@@ -21,7 +21,7 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
     <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/c.svg" alt="C" width="40" height="40"/>
     <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/c-plus-plus.svg" alt="CPP" width="40" height="40"/>
     <img src="https://github.com/omar-hajiyev-o4/Resource/blob/main/csharp.svg" alt="CSHARP" width="40" height="40"/>
